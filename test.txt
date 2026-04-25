@@ -1,3 +1,7 @@
 function DoSomthing() {
     doTask1();
 }
+
+function Common() {
+    doTask1();
+}
