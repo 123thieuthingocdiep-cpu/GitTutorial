@@ -6,6 +6,6 @@ function Common() {
     doTask1();
 }
 
-function Common() {
+function Common(1) {
     doTask2();
 }
