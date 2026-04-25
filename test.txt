@@ -4,5 +4,5 @@ function DoSomthing() {
 
 function Common() {
     doTask1();
-    doTask2();
+    doTask3();
 }
